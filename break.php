@@ -13,7 +13,7 @@
     {
         if($a==7)
         {
-            break;
+           break;
 
         }
         echo "the no is".$a."<br>";

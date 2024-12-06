@@ -9,7 +9,6 @@
 <body>
     <?php
     for($a=1;$a<=15;$a++)
-
     {
         echo "The number is".$a."<br>";
     }

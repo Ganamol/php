@@ -8,11 +8,10 @@
 </head>
 <body>
    <?php
-   $day=9;
+   $day=2;
    if($day==1) 
    {
        echo "Sunday";
-
    }
    elseif($day==2)
    {

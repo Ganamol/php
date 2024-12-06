@@ -7,20 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
-    echo "hello <br>";
-    echo 1 ."<br>";
-    ECHO  "hi <br>";
-    eCHO  "Hiiii <br>";
-
-?>
-<p>
-<?php
-$lang="php"  ;
- echo "Language is".$lang ;
-
-?>
-</p>
+   
 
 
 </body>
